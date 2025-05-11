@@ -1,0 +1,33 @@
+commit
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   README.md
+#	new file:   __pycache__/battlefield.cpython-312.pyc
+#	new file:   __pycache__/command_handler.cpython-312.pyc
+#	new file:   __pycache__/faction.cpython-312.pyc
+#	new file:   __pycache__/game_controller.cpython-312.pyc
+#	new file:   __pycache__/logger.cpython-312.pyc
+#	new file:   battle_log.txt
+#	new file:   battlefield.py
+#	new file:   command_handler.py
+#	new file:   faction.py
+#	new file:   game_controller.py
+#	new file:   logger.py
+#	new file:   main.py
+#	new file:   test_simulation.py
+#	new file:   unit/__init__.py
+#	new file:   unit/__pycache__/__init__.cpython-312.pyc
+#	new file:   unit/__pycache__/melee_unit.cpython-312.pyc
+#	new file:   unit/__pycache__/ranged_unit.cpython-312.pyc
+#	new file:   unit/__pycache__/unit.cpython-312.pyc
+#	new file:   unit/melee_unit.py
+#	new file:   unit/ranged_unit.py
+#	new file:   unit/unit.py
+#
+commit
