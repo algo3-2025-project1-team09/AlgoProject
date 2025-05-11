@@ -3,6 +3,8 @@
 
 A real-time strategy game simulation with concurrent unit behavior.
 
+By BREGLIA Francesco and VALI Uku
+
 ## Features
 - Asynchronous unit logic using threads
 - Real-time map printing every 5 seconds
